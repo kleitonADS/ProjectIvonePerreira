@@ -10,7 +10,7 @@ html, body {
 }
 
 body {
-    background: #fafafa;
+    background: white;
     font: 14px Arial, helvetica, sans-swerif;
     webkit-font-smoothing: antialiased ! important;
 }
@@ -127,3 +127,21 @@ body {
 footer{
     margin-top: 300px;
 }
+
+.img-logo{
+    width: 600px;
+}
+
+/* .video-container{
+    width: 100vw;
+    height: 100vh;
+  }
+      
+  iframe {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100vw;
+    height: 100vh;
+    transform: translate(-50%, -50%);
+  } */

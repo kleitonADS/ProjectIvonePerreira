@@ -14,11 +14,18 @@ body {
     font: 14px Arial, helvetica, sans-swerif;
     -webkit-font-smoothing: antialiased ! important;
 }
+
+#google_translate_element {
+    position: absolute;
+    top: -20px;
+    right: 20px;
+}
+
 /*  HEADER */
 .logo-top{
 
     width: 90%;
-    margin-top: 20px;
+    margin-top: 40px;
     margin-bottom: 20px;
     display: flex;
     justify-content: center;

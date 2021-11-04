@@ -52,7 +52,7 @@ body {
 
 .sub-title{
     max-width: 400px;
-    font-size: 12px;
+    font-size: 14px;
     text-align: justify;
     display: flex;
     float: right;
@@ -68,7 +68,7 @@ body {
     margin-top: 10px;
     color: gray;
     font-style: italic;
-    margin-left: 60%;
+    margin-left: 55%;
 
 }
 

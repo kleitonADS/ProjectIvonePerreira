@@ -62,6 +62,7 @@ body {
     margin-bottom: auto;
     margin-left: auto;
     margin-right: auto;
+    font-weight: normal;
 }
 
 .author-top{
@@ -163,7 +164,10 @@ iframe{
     width: 90%;
     margin-top: 20px;
     margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
 }
+
 
 .bottom-video{
     width: 90%;

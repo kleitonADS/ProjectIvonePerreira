@@ -105,6 +105,20 @@ body {
     flex-direction: column;
 }
 
+.main-post-index{
+    max-width: 1200px;
+    /* height: 315px; */
+    width: 60%;
+    margin-top: 20px;
+    display:flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 2px solid lightgray; */
+    /* border-radius: 30px;  */
+    flex-direction: column;
+}
+
 .main-post-text-2{
     max-width: 1200px;
     /* height: 315px; */
@@ -398,6 +412,11 @@ iframe{
     margin-left: 30px;
     margin-bottom: 30px;
     text-align: justify;
+}
+
+.photo-index{
+    display: flex;
+    width: 100%;
 }
 
 

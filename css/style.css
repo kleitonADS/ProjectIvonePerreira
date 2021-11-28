@@ -419,6 +419,13 @@ iframe{
     width: 100%;
 }
 
+.photo-index-small{
+  
+        display: flex;
+        width: 30%;
+
+}
+
 
 @media (max-width: 800px) {
     .logo-top{

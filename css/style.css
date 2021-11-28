@@ -322,6 +322,7 @@ iframe{
     text-align: center;
     justify-content: center;
     font-style: italic;
+    font-size: 16px;
 }
 
 .main-text-post-2{
@@ -333,6 +334,7 @@ iframe{
     /* text-align: center; */
     justify-content: center;
     font-style: italic;
+    font-size: 16px;
 }
 
 .main-text-phraser{
@@ -344,7 +346,7 @@ iframe{
     text-align: center;
     justify-content: center;
     font-style: italic;
-    font-size: 12px;
+    font-size: 16px;
 }
 .main-text-list{
     width: 90%;

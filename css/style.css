@@ -94,7 +94,7 @@ body {
 .main-post{
     max-width: 1200px;
     /* height: 315px; */
-    width: 90%;
+    width: 60%;
     margin-top: 20px;
     display:flex;
     justify-content: center;
@@ -515,7 +515,7 @@ iframe{
 } */
 
 footer{
-    margin-top: 150px;
+    margin-top: 20px;
 }
 
 

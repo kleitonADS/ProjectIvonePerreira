@@ -35,16 +35,17 @@ body {
 
 .menu{
     width: 90%;
-    /* height: 60px; */
     display: flex;
-    /* justify-content: center; */
     margin-left: auto;
     margin-left: auto;
     cursor: pointer;
-    /* flex-direction: column; */
+    margin-bottom: 20px;
+
 }
 .list{
-display: inline-flex;
+    display: flex;
+justify-content: space-around;
+
 }
 
 .itens-menu{

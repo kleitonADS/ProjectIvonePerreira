@@ -14,10 +14,7 @@
             document.getElementById('post13').style.display ='none';
             document.getElementById('post14').style.display ='none';
 
-// document.addEventListener("DOMContentLoaded", function() {
-//     // code
-//     console.log('aqui');
-//   });
+
 
 document.addEventListener('click', function (event) {
 
